@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`业务组件的测试 render 1`] = `
+<Provider
+  store={
+    Object {
+      "dispatch": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+      Symbol(observable): [Function],
+    }
+  }
+>
+  <Connect(TodoList)>
+    <TodoList
+      getList={[Function]}
+      list={
+        Array [
+          Object {
+            "id": "1",
+            "text": "刷牙",
+          },
+          Object {
+            "id": "2",
+            "text": "洗脸",
+          },
+          Object {
+            "id": "3",
+            "text": "吃饭",
+          },
+        ]
+      }
+    >
+      <ul>
+        <li
+          key="1"
+        >
+          刷牙
+        </li>
+        <li
+          key="2"
+        >
+          洗脸
+        </li>
+        <li
+          key="3"
+        >
+          吃饭
+        </li>
+      </ul>
+    </TodoList>
+  </Connect(TodoList)>
+</Provider>
+`;

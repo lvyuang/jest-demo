@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1513416658097" clover="3.2.0">
+  <project timestamp="1513416658098" name="All files">
+    <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="7" coveredelements="4" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2">
+      <file name="substract.js" path="/Users/lvyuang/code/shimo/lesson/again2/src/substract.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+      </file>
+      <file name="sum.js" path="/Users/lvyuang/code/shimo/lesson/again2/src/sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
